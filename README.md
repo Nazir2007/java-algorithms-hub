@@ -34,7 +34,7 @@ Clone the repository and compile/run any file via your terminal or IDE (JDK 17+ 
 javac src/basics/Fibonacci.java
 java src.basics.Fibonacci
 ```
-🤝 How to Contribute
+# 🤝 How to Contribute
 Contributions are highly welcome! Whether you are preparing for Hacktoberfest, looking for your first PR, or just want to practice Java, this is the perfect place.
 
 You can add a new algorithm to empty packages, optimize existing code, or even add descriptive comments to current files.
@@ -49,7 +49,7 @@ You can add a new algorithm to empty packages, optimize existing code, or even a
 
 5 Open a Pull Request.
 
-🎯 Looking for ideas?
+# 🎯 Looking for ideas?
 Check out the Issues tab for good first issue or help wanted tags. If you don't know where to start, here are some simple algorithms we currently need in the src/basics/ or src/algorithms/ packages:
 
 * Prime Number Checker
