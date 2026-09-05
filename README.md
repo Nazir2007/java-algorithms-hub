@@ -33,7 +33,7 @@ Clone the repository and compile/run any file via your terminal or IDE (JDK 17+ 
 # Example for running the Fibonacci class
 javac src/basics/Fibonacci.java
 java src.basics.Fibonacci
-
+```
 🤝 How to Contribute
 Contributions are highly welcome! Whether you are preparing for Hacktoberfest, looking for your first PR, or just want to practice Java, this is the perfect place.
 
